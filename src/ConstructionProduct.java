@@ -1,4 +1,4 @@
-import abstractClasses.RawMaterial;
+import abstractclasses.RawMaterial;
 
 public class ConstructionProduct extends RawMaterial {
 

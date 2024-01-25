@@ -1,4 +1,4 @@
-package createdInterfaces;
+package createdinterfaces;
 
 //An interface used to define the price of a product using a win percentage.
 public interface Priceable {

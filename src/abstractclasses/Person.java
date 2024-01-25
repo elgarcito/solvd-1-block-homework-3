@@ -1,4 +1,4 @@
-package abstractClasses;
+package abstractclasses;
 /*
 This method is going to have the information and method that a person should have
 Its mandatory to add a person that it has all the data

@@ -1,6 +1,6 @@
 
-import abstractClasses.Product;
-import createdInterfaces.*;
+import abstractclasses.Product;
+import createdinterfaces.*;
 
 import java.text.DecimalFormat;
 import java.time.LocalDate;

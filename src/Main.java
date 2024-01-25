@@ -19,7 +19,7 @@ Supplier: the one that sells the product.
 Client: the one that buys the product.
  */
 
-import finalClasess.PayingRates;
+import finalclasess.PayingRates;
 
 public class Main {
     public static void main(String[] args) {

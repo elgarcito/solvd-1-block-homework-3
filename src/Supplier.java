@@ -1,4 +1,4 @@
-import abstractClasses.Person;
+import abstractclasses.Person;
 
 public class Supplier extends Person {
     private String productSupplied;//What kind of product supplies

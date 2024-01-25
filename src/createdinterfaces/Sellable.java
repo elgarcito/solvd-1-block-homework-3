@@ -1,4 +1,4 @@
-package createdInterfaces;
+package createdinterfaces;
 
 /*
 This interface allows us to remove from the stock the amount sold, it needs:

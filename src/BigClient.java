@@ -1,4 +1,4 @@
-import abstractClasses.Person;
+import abstractclasses.Person;
 
 //We only save the data of the big clients
 public class BigClient extends Person {

@@ -1,4 +1,4 @@
-import abstractClasses.Person;
+import abstractclasses.Person;
 
 public class Employee extends Person {
 

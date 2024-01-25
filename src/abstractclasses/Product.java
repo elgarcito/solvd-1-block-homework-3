@@ -1,4 +1,4 @@
-package abstractClasses;
+package abstractclasses;
 
 /*
 This abstract class is going to have the basic field that a product should have and methods that it should contain
