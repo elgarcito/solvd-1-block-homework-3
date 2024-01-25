@@ -53,4 +53,8 @@ Created the static:
 * Method: inside the ElectricProduct the showAmountOfElectricProducts() method.
 * Variable: productCounter used in ElectricProduct.
 
+The console messages from previous exercises were deleted to see
+the console message for this exercise.
+The objects created were kept to be
+used in this exercise.
 The implementation could be seen in the main method example.
