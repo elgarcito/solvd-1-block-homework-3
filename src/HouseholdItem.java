@@ -1,4 +1,4 @@
-import abstractclasses.Product;
+import abstract_classes.Product;
 
 public class HouseholdItem extends Product {
     private boolean itIsASet;//Checks if the product is a set or not, for example, a set of kitchen knives

@@ -1,4 +1,4 @@
-package finalclasess;
+package final_clasess;
 public final class PayingRates {
 
     //How much you pay per hour to a category of employee

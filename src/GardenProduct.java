@@ -1,5 +1,5 @@
 
-import abstractclasses.Product;
+import abstract_classes.Product;
 
 import java.util.Objects;
 

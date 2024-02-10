@@ -1,4 +1,4 @@
-package createdinterfaces;
+package created_interfaces;
 
 /*
 This interface let us know if there is stock available or no.

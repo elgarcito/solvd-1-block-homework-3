@@ -1,4 +1,4 @@
-import abstractclasses.Product;
+import abstract_classes.Product;
 
 public class WaterProduct extends Product {
 

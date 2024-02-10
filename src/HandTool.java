@@ -1,4 +1,4 @@
-import abstractclasses.Product;
+import abstract_classes.Product;
 
 public class HandTool extends Product {
     protected boolean itCut;//If it cut like a knife, hand saw or axe
